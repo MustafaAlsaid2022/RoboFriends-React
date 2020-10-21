@@ -5,7 +5,7 @@ import App from './containers/App';
 //import CardList from "./components/CardList"
 import 'tachyons'
 //import {robot} from './components/robots'
-import * as serviceWorker from './serviceWorker';
+
 
 
 ReactDOM.render(
@@ -14,4 +14,4 @@ ReactDOM.render(
 );
 
 
-serviceWorker.unregister();
+
